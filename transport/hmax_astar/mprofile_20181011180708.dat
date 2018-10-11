@@ -1,0 +1,7 @@
+CMDLINE c:\users\arthur\anaconda3\python.exe ./pyperplan-master/src/pyperplan.py -H hmax -s astar pyperplan-master/benchmarks/transport/task01.pddl
+MEM 0.480469 1539270428.1109
+MEM 13.414062 1539270428.2116
+MEM 20.207031 1539270428.3126
+MEM 25.777344 1539270428.4135
+MEM 31.082031 1539270428.5144
+MEM 33.253906 1539270428.6154

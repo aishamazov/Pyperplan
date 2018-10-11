@@ -1,0 +1,7 @@
+CMDLINE c:\users\arthur\anaconda3\python.exe ./pyperplan-master/src/pyperplan.py -H hadd -s astar pyperplan-master/benchmarks/transport/task01.pddl
+MEM 0.515625 1538751810.9148
+MEM 13.500000 1538751811.0158
+MEM 20.414062 1538751811.1167
+MEM 25.925781 1538751811.2167
+MEM 31.214844 1538751811.3169
+MEM 33.296875 1538751811.4171

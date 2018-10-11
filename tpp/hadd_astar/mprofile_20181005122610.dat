@@ -1,0 +1,7 @@
+CMDLINE c:\users\arthur\anaconda3\python.exe ./pyperplan-master/src/pyperplan.py -H hadd -s astar pyperplan-master/benchmarks/tpp/task04.pddl
+MEM 0.503906 1538731570.0496
+MEM 12.445312 1538731570.1515
+MEM 19.953125 1538731570.2525
+MEM 25.363281 1538731570.3534
+MEM 30.988281 1538731570.4543
+MEM 33.476562 1538731570.5553

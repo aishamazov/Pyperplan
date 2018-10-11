@@ -1,0 +1,7 @@
+CMDLINE c:\users\arthur\anaconda3\python.exe ./pyperplan-master/src/pyperplan.py -H blind -s ids pyperplan-master/benchmarks/tpp/task03.pddl
+MEM 0.472656 1538731278.8942
+MEM 13.593750 1538731278.9951
+MEM 20.406250 1538731279.0961
+MEM 26.253906 1538731279.1970
+MEM 31.816406 1538731279.2979
+MEM 33.175781 1538731279.3989

@@ -1,0 +1,7 @@
+CMDLINE c:\users\arthur\anaconda3\python.exe ./pyperplan-master/src/pyperplan.py -H hmax -s gbf pyperplan-master/benchmarks/tpp/task02.pddl
+MEM 0.496094 1539250337.8051
+MEM 12.160156 1539250337.9060
+MEM 19.136719 1539250338.0070
+MEM 24.757812 1539250338.1079
+MEM 30.679688 1539250338.2089
+MEM 33.054688 1539250338.3098

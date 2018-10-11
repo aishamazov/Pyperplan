@@ -1,0 +1,7 @@
+CMDLINE c:\users\arthur\anaconda3\python.exe ./pyperplan-master/src/pyperplan.py -H hadd -s astar pyperplan-master/benchmarks/openstacks/task04.pddl
+MEM 0.503906 1538762835.9464
+MEM 13.585938 1538762836.0473
+MEM 20.382812 1538762836.1483
+MEM 26.089844 1538762836.2492
+MEM 31.765625 1538762836.3501
+MEM 33.503906 1538762836.4511
